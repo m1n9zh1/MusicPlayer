@@ -4,7 +4,7 @@
 # musicPlayer
 a JQuery project
 
-##Build Setup
+## Build Setup
 ```bash
 # install dependencies
 npm install

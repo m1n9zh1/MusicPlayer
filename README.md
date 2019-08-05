@@ -2,7 +2,7 @@
 一个用gulp自动化构建，Zepto框架编写的功能简单的移动端网页音乐播放器
 
 # musicPlayer
-a JQuery project
+> A JQuery project
 
 ## Build Setup
 ```bash
